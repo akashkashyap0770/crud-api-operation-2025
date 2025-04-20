@@ -1,6 +1,6 @@
 # React + Vite https://crud-api-operation-2025.netlify.app/
 
-Documentation
+# Documentation
 A React + Vite dashboard app styled with Tailwind CSS, secured by Auth0, routed via React Router, animated with Framer Motion, and featuring protected Timetable, Weather, and Countdown pages.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
